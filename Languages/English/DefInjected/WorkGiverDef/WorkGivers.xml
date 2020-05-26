@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Do bills at the armorer table -->
+
+  <DoBillsTinkersWorkbench.label>do bills at Tinker's Workstation</DoBillsTinkersWorkbench.label>
+  <DoBillsTinkersWorkbench.verb>work</DoBillsTinkersWorkbench.verb>
+  <DoBillsTinkersWorkbench.gerund>working at</DoBillsTinkersWorkbench.gerund>
+
+
+</LanguageData>

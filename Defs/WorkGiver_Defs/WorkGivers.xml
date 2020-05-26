@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============= Do bills at the armorer table ============= -->
+  <WorkGiverDef>
+    <defName>DoBillsTinkersWorkbench</defName>
+    <label>do bills at Tinker's Workstation</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>75</priorityInType>
+    <fixedBillGiverDefs>
+      <li>OldWorldTinkerTable</li>
+    </fixedBillGiverDefs>
+    <verb>work</verb>
+    <gerund>working at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>

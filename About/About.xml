@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>The Old World (Continued)</name>
+  <packageId>Mlie.TheOldWorld</packageId>
+  <author>Atlas, APurpleApple, MrSlyFoxJr</author>
+  <url>https://github.com/emipa606/TheOldWorld</url>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Atlas.AndroidTiers</packageId>
+      <displayName>Android tiers</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1386412863</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Atlas.AndroidTiers</li>
+  </loadAfter>
+  <description>Update of Atlas, APurpleApple, MrSlyFoxJrs mod for RimWorld 1.1
+https://ludeon.com/forums/index.php?topic=41568.0
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
+
+Support-chat:
+https://invite.gg/mlie
+
+Non-steam version:
+https://github.com/emipa606/TheOldWorld
+	
+--- Original Description ---
+"The Old World" is an Android Tiers Add-on mod that aims to build and gather all steampunk themed elements into one ambitious mod.
+</description>
+</ModMetaData>
