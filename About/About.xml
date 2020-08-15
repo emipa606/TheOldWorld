@@ -6,6 +6,7 @@
   <url>https://github.com/emipa606/TheOldWorld</url>
   <supportedVersions>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -17,7 +18,7 @@
   <loadAfter>
     <li>Atlas.AndroidTiers</li>
   </loadAfter>
-  <description>Update of Atlas, APurpleApple, MrSlyFoxJrs mod for RimWorld 1.1
+  <description>Update of Atlas, APurpleApple, MrSlyFoxJrs mod
 https://ludeon.com/forums/index.php?topic=41568.0
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
