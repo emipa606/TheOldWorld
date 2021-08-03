@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- ANNOYING BOIS -->
-
   <SteamBurst.label>steam</SteamBurst.label>
   <SteamBurst.deathMessage>{0} has boiled off in hot steam.</SteamBurst.deathMessage>
-
-
 </LanguageData>

@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Mounted Steam Thrower -->
-
   <SteamTurret.label>Mounted Steam Thrower</SteamTurret.label>
   <SteamTurret.description>The Steam thrower mounted and modified for a siege-ready defence entrenchment. The connected supply tanks allow for longer bursts at higher pressure.</SteamTurret.description>
-
   <Bullet_SteamTurret.label>steam burst</Bullet_SteamTurret.label>
-
   <Gun_SteamTurret.label>Mounted Steam Thrower</Gun_SteamTurret.label>
   <Gun_SteamTurret.description>A Steam thrower fitted with a storage tank base for entrenchment.</Gun_SteamTurret.description>
-
-
 </LanguageData>

@@ -1,148 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Derringer -->
-
   <Bullet_MatchSmall.label>musket ball</Bullet_MatchSmall.label>
-
   <Gun_Derringer.label>Matchlock Derringer</Gun_Derringer.label>
   <Gun_Derringer.description>Matchlock mechanism, charge loaded sidearm. Cheap and unwieldy but better than nothing.</Gun_Derringer.description>
   <Gun_Derringer.tools.0.label>stock</Gun_Derringer.tools.0.label>
   <Gun_Derringer.tools.1.label>barrel</Gun_Derringer.tools.1.label>
-
-
   <!-- Arbalesque -->
-
   <Bullet_MatchLong.label>musket ball</Bullet_MatchLong.label>
-
   <Gun_Arbalesque.label>Matchlock Arbalesque</Gun_Arbalesque.label>
   <Gun_Arbalesque.description>Matchlock mechanism, charge loaded rifle. Cheap and unwieldy but has better range than a derringer.</Gun_Arbalesque.description>
   <Gun_Arbalesque.tools.0.label>stock</Gun_Arbalesque.tools.0.label>
   <Gun_Arbalesque.tools.1.label>barrel</Gun_Arbalesque.tools.1.label>
-
-
   <!-- Boomstick -->
-
   <Bullet_MatchBig.label>flak blast</Bullet_MatchBig.label>
-
   <Gun_MatchBig.label>Matchlock Boomstick</Gun_MatchBig.label>
   <Gun_MatchBig.description>Matchlock mechanism, charge loaded blunderbuss. Cheap and unwieldy. Scatters buckshot at medium range.</Gun_MatchBig.description>
   <Gun_MatchBig.tools.0.label>stock</Gun_MatchBig.tools.0.label>
   <Gun_MatchBig.tools.1.label>barrel</Gun_MatchBig.tools.1.label>
-
-
   <!-- Flintlock Pistol -->
-
   <Bullet_FlintlockSmall.label>musket ball</Bullet_FlintlockSmall.label>
-
   <Gun_FlintlockPistol.label>Flintlock Pistol</Gun_FlintlockPistol.label>
   <Gun_FlintlockPistol.description>Flintlock mechanism, charge loaded sidearm. A classic sidearm standard. Average Power, but short ranged.</Gun_FlintlockPistol.description>
   <Gun_FlintlockPistol.tools.0.label>stock</Gun_FlintlockPistol.tools.0.label>
   <Gun_FlintlockPistol.tools.1.label>barrel</Gun_FlintlockPistol.tools.1.label>
-
-
   <!-- Double-Barrel Flintlock Pistol -->
-
   <Bullet_FlintlockSmallDouble.label>musket ball</Bullet_FlintlockSmallDouble.label>
-
   <Gun_FlintlockPistolDouble.label>Double-Barrel Flintlock Pistol</Gun_FlintlockPistolDouble.label>
   <Gun_FlintlockPistolDouble.description>Flintlock mechanism, charge loaded sidearm. A classic sidearm standard fitted with two barrels making it slower to reload but allows for consecutive shots. Average Power, but short ranged.</Gun_FlintlockPistolDouble.description>
   <Gun_FlintlockPistolDouble.tools.0.label>stock</Gun_FlintlockPistolDouble.tools.0.label>
   <Gun_FlintlockPistolDouble.tools.1.label>barrel</Gun_FlintlockPistolDouble.tools.1.label>
-
-
   <!-- Flintlock Rifle -->
-
   <Bullet_FlintlockLong.label>musket ball</Bullet_FlintlockLong.label>
-
   <Gun_FlintlockRifle.label>Flintlock Rifle</Gun_FlintlockRifle.label>
   <Gun_FlintlockRifle.description>Flintlock mechanism, charge loaded rifle. Ancient standard long rifle. Powerful but takes time to reload</Gun_FlintlockRifle.description>
   <Gun_FlintlockRifle.tools.0.label>stock</Gun_FlintlockRifle.tools.0.label>
   <Gun_FlintlockRifle.tools.1.label>barrel</Gun_FlintlockRifle.tools.1.label>
-
-
   <!-- Caplock Rifle -->
-
   <Gun_CaplockRifle.label>Caplock Rifle</Gun_CaplockRifle.label>
   <Gun_CaplockRifle.description>Flintlock mechanism, cap-loaded rifle. Ancient standard long rifle fitted with a scope. Powerful and long range but takes time to reload</Gun_CaplockRifle.description>
   <Gun_CaplockRifle.tools.0.label>stock</Gun_CaplockRifle.tools.0.label>
   <Gun_CaplockRifle.tools.1.label>barrel</Gun_CaplockRifle.tools.1.label>
-
-
   <!-- Blunderbuss -->
-
   <Bullet_FlintlockBig.label>flak blast</Bullet_FlintlockBig.label>
-
   <Gun_FlintlockBig.label>Flintlock Blunderbuss</Gun_FlintlockBig.label>
   <Gun_FlintlockBig.description>Flintlock mechanism, charge loaded blunderbuss. Ancient standard scattergun. Average damage buckshot at medium range.</Gun_FlintlockBig.description>
   <Gun_FlintlockBig.tools.0.label>stock</Gun_FlintlockBig.tools.0.label>
   <Gun_FlintlockBig.tools.1.label>barrel</Gun_FlintlockBig.tools.1.label>
-
-
   <!-- Double Blunderbuss -->
-
   <Bullet_FlintlockBigDouble.label>flak blast</Bullet_FlintlockBigDouble.label>
-
   <Gun_FlintlockBigDouble.label>Double-Barrel Blunderbuss</Gun_FlintlockBigDouble.label>
   <Gun_FlintlockBigDouble.description>Flintlock mechanism, charge loaded blunderbuss. Ancient standard scattergun fitted with a secondary barrel allowing for consecutive shots at the cost of reload time. Average damage buckshot at medium range.</Gun_FlintlockBigDouble.description>
   <Gun_FlintlockBigDouble.tools.0.label>stock</Gun_FlintlockBigDouble.tools.0.label>
   <Gun_FlintlockBigDouble.tools.1.label>barrel</Gun_FlintlockBigDouble.tools.1.label>
-
-
   <!-- Construct Cannon -->
-
   <Bullet_Cannon.label>Cannon Shell</Bullet_Cannon.label>
-
   <Gun_MechCannon.label>Mech Cannon</Gun_MechCannon.label>
   <Gun_MechCannon.description>The Mech Cannon fires a large-caliber explosive. Powerful and Slow to use.</Gun_MechCannon.description>
   <Gun_MechCannon.tools.0.label>barrel</Gun_MechCannon.tools.0.label>
-
-
   <!-- Clockwork Grenade -->
-
   <Weapon_Clockwork.label>Clockwork Grenade</Weapon_Clockwork.label>
   <Weapon_Clockwork.description>A handheld, throwable clockwork grenade. Releases high-pressure, high-heat steam in an area</Weapon_Clockwork.description>
   <Weapon_Clockwork.verbs.0.label>throw grenade</Weapon_Clockwork.verbs.0.label>
-
   <Proj_Clockwork.label>Clockwork Grenade</Proj_Clockwork.label>
-
-
   <!-- Bolt Action Rifle -->
-
   <Bullet_BoltLong.label>musket cartridge</Bullet_BoltLong.label>
-
   <Gun_BoltRifle.label>Bolt-action Rifle</Gun_BoltRifle.label>
   <Gun_BoltRifle.description>Bolt-pull mechanism, cartridge loaded rifle. Ancient standard long rifle chambered with a larger caliber. Powerful and long range but takes time to reload</Gun_BoltRifle.description>
   <Gun_BoltRifle.tools.0.label>stock</Gun_BoltRifle.tools.0.label>
   <Gun_BoltRifle.tools.1.label>barrel</Gun_BoltRifle.tools.1.label>
-
-
   <!-- Scoped-Bolt Action Rifle -->
-
   <Gun_ScopeBolt.label>Scoped Bolt-action Rifle</Gun_ScopeBolt.label>
   <Gun_ScopeBolt.description>Bolt-pull mechanism, cartridge loaded rifle. Ancient standard long rifle chambered with a larger caliber. Powerful and long range but takes time to reload. Equipped with a scope for even longer range</Gun_ScopeBolt.description>
   <Gun_ScopeBolt.tools.0.label>stock</Gun_ScopeBolt.tools.0.label>
   <Gun_ScopeBolt.tools.1.label>barrel</Gun_ScopeBolt.tools.1.label>
-
-
   <!-- Fox Rifle -->
-
   <Bullet_BoltFox.label>musket cartridge</Bullet_BoltFox.label>
-
   <Gun_FoxRifle.label>Fox Rifle</Gun_FoxRifle.label>
   <Gun_FoxRifle.description>Bolt-pull mechanism, cartridge loaded rifle. A Custom-Machined long rifle chambered with a larger caliber and fitted with a long-scope. Powerful and long range but takes time to reload</Gun_FoxRifle.description>
   <Gun_FoxRifle.tools.0.label>stock</Gun_FoxRifle.tools.0.label>
   <Gun_FoxRifle.tools.1.label>barrel</Gun_FoxRifle.tools.1.label>
-
-
   <!-- Steam Thrower -->
-
   <Bullet_SteamBurst.label>steam burst</Bullet_SteamBurst.label>
-
   <Gun_SteamThrower.label>Steam Thrower</Gun_SteamThrower.label>
   <Gun_SteamThrower.description>Gas-pumped, High-velocity, Steam pumping mechanism. Shoots out Highly Pressurized steam in high velocity resulting in a devastating damaging trail. Average damage but takes a while to recharge.</Gun_SteamThrower.description>
   <Gun_SteamThrower.tools.0.label>stock</Gun_SteamThrower.tools.0.label>
   <Gun_SteamThrower.tools.1.label>barrel</Gun_SteamThrower.tools.1.label>
-
-
 </LanguageData>
