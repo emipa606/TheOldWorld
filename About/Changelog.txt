@@ -1,5 +1,8 @@
 # Changelog for TheOldWorld
 
+1.0.3.0 - Fixed the now required smeltable-tag on the weapons
+
+
 1.0.2.0 - Updated to 1.3
 
 

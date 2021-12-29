@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>The Old World (Continued)</name>
   <packageId>Mlie.TheOldWorld</packageId>
@@ -19,7 +19,7 @@
   <loadAfter>
     <li>Atlas.AndroidTiers</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Atlas, APurpleApple, MrSlyFoxJrs mod
 https://ludeon.com/forums/index.php?topic=41568.0
 
@@ -28,7 +28,7 @@ Reskin of T1-T4, and some of the work benches.
 It has the steam turret as a defense weapon.
 It also has weapons that it adds in, and you can see those in the last screenshot.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -37,12 +37,12 @@ It also has weapons that it adds in, and you can see those in the last screensho
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-&quot;The Old World&quot; is an Android Tiers Add-on mod that aims to build and gather all steampunk themed elements into one ambitious mod.
+"The Old World" is an Android Tiers Add-on mod that aims to build and gather all steampunk themed elements into one ambitious mod.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -53,4 +53,3 @@ It also has weapons that it adds in, and you can see those in the last screensho
 [/list]
 </description>
 </ModMetaData>
-

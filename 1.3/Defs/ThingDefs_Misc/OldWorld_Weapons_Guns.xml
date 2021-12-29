@@ -48,6 +48,7 @@
     <smeltProducts>
       <Steel>20</Steel>
     </smeltProducts>
+    <smeltable>true</smeltable>
   </ThingDef>
   <ThingDef Name="OldWorldBaseMakeableGun" ParentName="OldWorldBaseGun" Abstract="True">
     <recipeMaker>

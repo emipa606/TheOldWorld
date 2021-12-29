@@ -1,6 +1,6 @@
 # TheOldWorld
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Atlas, APurpleApple, MrSlyFoxJrs mod
 https://ludeon.com/forums/index.php?topic=41568.0
@@ -10,25 +10,16 @@ Reskin of T1-T4, and some of the work benches.
 It has the steam turret as a defense weapon.
 It also has weapons that it adds in, and you can see those in the last screenshot.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/TheOldWorld]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-&quot;The Old World&quot; is an Android Tiers Add-on mod that aims to build and gather all steampunk themed elements into one ambitious mod.
+"The Old World" is an Android Tiers Add-on mod that aims to build and gather all steampunk themed elements into one ambitious mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
