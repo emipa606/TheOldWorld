@@ -1,5 +1,8 @@
 # Changelog for TheOldWorld
 
+1.3.1 - Added support for Gynoids
+
+
 1.0.3.0 - Fixed the now required smeltable-tag on the weapons
 
 

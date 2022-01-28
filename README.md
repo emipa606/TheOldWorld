@@ -6,9 +6,11 @@ Update of Atlas, APurpleApple, MrSlyFoxJrs mod
 https://ludeon.com/forums/index.php?topic=41568.0
 
 — User description (by Emperor) —
-Reskin of T1-T4, and some of the work benches.
+Reskin of T1-T5, and some of the work benches.
 It has the steam turret as a defense weapon.
 It also has weapons that it adds in, and you can see those in the last screenshot.
+
+Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2566107206]Android tiers - Gynoids Reborn
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
