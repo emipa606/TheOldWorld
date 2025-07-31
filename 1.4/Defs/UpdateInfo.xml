@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="TheOldWorld_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2109892552</linkUrl>
+		<banner>UpdateInfo/TheOldWorld</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="TheOldWorld_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>TheOldWorld_1_4_1</defName>
+		<date>2025/7/31</date>
+		<content>This mod will not be further updated.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

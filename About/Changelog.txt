@@ -1,5 +1,8 @@
 # Changelog for TheOldWorld
 
+1.4.2 - Last update, added end-of-life message
+
+
 1.4.1 - Updated for 1.4 using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2917948202]Android Tiers Reforged[/url]
 
 

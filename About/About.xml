@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>The Old World (Continued)</name>
+  <name>[Abandoned] The Old World (Continued)</name>
   <packageId>Mlie.TheOldWorld</packageId>
   <author>Atlas, APurpleApple, MrSlyFoxJr</author>
   <url>https://github.com/emipa606/TheOldWorld</url>
@@ -26,6 +26,8 @@
 Update of Atlas, APurpleApple, MrSlyFoxJrs mod
 https://ludeon.com/forums/index.php?topic=41568.0
 
+- To use this with 1.3 and older you need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863]Android Tiers[/url] instead
+
 — User description (by Emperor) —
 Reskin of T1-T5, and some of the work benches.
 It has the steam turret as a defense weapon.
@@ -33,11 +35,11 @@ It also has weapons that it adds in, and you can see those in the last screensho
 
 Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566107206]Android tiers - Gynoids Reborn[/url]
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://i.imgur.com/3npT60J.png[/img]
 
 [table]
 	[tr]
-		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://discord.gg/h5TY6DA][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/TheOldWorld][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
@@ -55,12 +57,13 @@ Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=25
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list] 
 
-
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2109892552]Last updated 2023-02-10[/url]</description>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2109892552][img]https://img.shields.io/github/v/release/emipa606/TheOldWorld?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.4.2</modVersion>
 </ModMetaData>
